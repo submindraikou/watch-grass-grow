@@ -1,0 +1,11 @@
+{
+  "name": "GrassGrow",
+  "version": "1",
+  "description": "Watch Grass Grow!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "an ocelot",
+  "license": "ISC"
+}
